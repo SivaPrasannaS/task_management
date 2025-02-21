@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "avatar": "assets/users/user-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Julie Smith",
+      "avatar": "assets/users/user-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "April Smith",
+      "avatar": "assets/users/user-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "John Smith",
+      "avatar": "assets/users/user-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rebeka Smith",
+      "avatar": "assets/users/user-5.jpg"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Master Angular",
+      "description": "Description 1",
+      "date": "2025-02-21",
+      "user_id": 1
+    }
+  ]
+}
